@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-//NOTE: this is my program
+//NOTE: this is test
 int main()
 {
    // printf() 
-   printf("Hello, World!");
+   printf("Ahoj Gite!");
 
    //return function
    return 0;
