@@ -1,3 +1,3 @@
-##Readme   
+##Readme
 
-Hello all
+Moje poznámka
